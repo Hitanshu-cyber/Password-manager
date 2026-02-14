@@ -97,9 +97,6 @@ This is an educational project demonstrating security concepts. For production u
 - Regular breach list updates
 - Compliance with local data protection regulations
 
-## 📝 License
-
-MIT License
 
 ## 🤝 Contributing
 
