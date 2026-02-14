@@ -1,0 +1,32 @@
+# Sensitive Data - NEVER COMMIT
+password_manager.db
+passwords_export.csv
+hsm_enclave.dat
+ai_model.dat
+breach_db.bloom
+sync_blob_*.dat
+*.enc
+*.backup
+
+# Build Artifacts
+*.class
+*.jar
+*.war
+*.ear
+target/
+build/
+
+# IDE Files
+.idea/
+.vscode/
+*.iml
+*.swp
+*.swo
+.DS_Store
+
+# Logs
+*.log
+
+# Temporary Files
+*.tmp
+*.temp
